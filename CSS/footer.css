@@ -1,0 +1,38 @@
+.footer {
+    background-color: rgb(35, 35, 35);
+    margin-bottom: 0px;
+    position: relative;
+    top: 16px;
+    height: 50px;
+}
+
+.footer .copyright {
+    float: left;
+    color: white;
+    margin-left: 19px;
+    margin-top: 10px;
+    font-size: 12px;
+}
+
+.footer .navsection {
+    float: right;
+}
+
+.footer .navsection ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+.footer .navsection ul li:hover {
+    background-color: black;
+}
+
+.footer .navsection ul li a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 10px 11px;
+}

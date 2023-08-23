@@ -1,0 +1,26 @@
+.card-desc {
+    height: 78px;
+    overflow: hidden;
+}
+
+.pdf-list{
+    width: 100%;
+}
+
+.card{
+    width: 14rem;
+    height: 60vh;
+}
+
+.card .img-top{
+    height: 55%;
+}
+
+.card-title{
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.buttons a{
+    margin-left: 15px;
+}

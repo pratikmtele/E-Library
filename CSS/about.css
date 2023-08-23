@@ -1,0 +1,18 @@
+*{
+    font-family: sans-serif;
+}
+
+#about-heading{
+    margin: 20px 30px;
+    font-size: 1.5rem;
+}
+
+.paragraph-1{
+    width: 70%;
+    margin: 20px auto;
+}
+
+.hyperlink{
+    color: brown;
+    text-decoration: none;
+}
